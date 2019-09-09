@@ -1,0 +1,31 @@
+.bottompadding {
+    padding: 0 0 1.5rem 0;
+}
+
+.btn-diode {
+  background: #F15C2E;
+  border-color: #F15C2E;
+  color: #fff;
+}
+
+.btn-diode:hover {
+  background: #f37c58;
+  border-color: #f37c58;
+  color: #fff;
+}
+
+.is-danger {
+  color: #ff3860
+}
+
+.message.is-diode {
+  background: #fcdacf;
+  border-color: #F15C2E;
+  color: #F15C2E;
+}
+
+.message.is-diode .message-body {
+  background: #fcdacf;
+  border-color: #F15C2E;
+  color: #F15C2E;
+}
