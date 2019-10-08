@@ -87,3 +87,17 @@ $ npm start
 ```
 $ npm run dev
 ```
+
+# docker
+
+build image
+
+```BASH
+$ docker build --build-arg "DEFAULT_BLOCKFAUCET_PORT=3009" -f ./Dockerfile -t blockfaucet ./
+```
+
+start blockfaucet
+```BASH
+$ docker run -e BLOCKFAUCET_PORT=3008 -p 3008:3008 -d blockfaucet
+```
+
