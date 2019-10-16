@@ -43,7 +43,7 @@ class App extends Component {
         <section className="hero bg-diode">
           <div className="hero-body">
             <div className="container">
-              <h1 className="title">Diode Chain Faucet</h1>
+              <h1 className="title">Diode Chain™ Faucet</h1>
             </div>
           </div>
         </section>
