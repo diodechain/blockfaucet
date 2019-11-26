@@ -1,5 +1,5 @@
 {
-	"etherscanroot": "http://localhost:8545",
+	"etherscanroot": "https://diode.io/testnet/#/tx/",
 	"payoutfrequencyinsec": 60,
 	"payoutamountinether": 0.2,
 	"queuesize": 5,

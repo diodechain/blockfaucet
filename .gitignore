@@ -1,5 +1,6 @@
 .diodefaucet/
 config.json
+config.js
 node_modules/
 wallet.json
 build/
